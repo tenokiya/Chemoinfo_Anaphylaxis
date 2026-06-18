@@ -1,0 +1,11 @@
+Figure 1. Workflow for constructing the FAERS-derived structure-linked model-ready dataset.
+FAERS reports were deduplicated at the case level, strict and broad anaphylaxis endpoints were defined using MedDRA preferred terms, and drug exposure records were extracted using FAERS role codes. Drug-level reporting signals were integrated with a curated molecular structure master table to generate a final model-ready dataset of 106 compounds.
+
+Figure 2. Model performance across repeated random and scaffold splits.
+Point estimates show mean performance across repeated cross-validation, and horizontal or vertical error bars indicate the empirical 2.5th to 97.5th percentile interval. Random Forest showed the highest ROC-AUC and PR-AUC and retained performance under scaffold-based splitting.
+
+Figure 3. Sensitivity analysis of the ECFP-based Random Forest model.
+Sensitivity analyses assessed dependence on expanded negative labels and lower-confidence labels. Performance was evaluated using both repeated random splitting and Bemis–Murcko scaffold-based splitting.
+
+Figure 4. Drug-level predicted probabilities in the main scaffold-split analysis.
+Panel A summarizes the distribution of mean predicted probabilities by weak label class. Panel B highlights drugs whose predicted probabilities were discordant with their weak labels and may warrant label review or biological interpretation.
