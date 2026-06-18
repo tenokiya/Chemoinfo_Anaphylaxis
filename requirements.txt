@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+rdkit
+lightgbm
+shap
+matplotlib
+requests
+openpyxl
