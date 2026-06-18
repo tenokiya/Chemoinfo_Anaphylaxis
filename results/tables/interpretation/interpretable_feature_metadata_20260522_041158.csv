@@ -1,0 +1,77 @@
+﻿feature,feature_description,feature_category
+MolWt,Molecular weight,molecular_weight
+HeavyAtomMolWt,Heavy-atom molecular weight,molecular_weight
+ExactMolWt,Exact molecular weight,molecular_weight
+BalabanJ,BalabanJ,other_rdkit_descriptor
+BertzCT,BertzCT,other_rdkit_descriptor
+TPSA,Topological polar surface area,polar_surface_area
+FractionCSP3,Fraction of sp3 carbons,saturation
+HeavyAtomCount,Number of heavy atoms,other_rdkit_descriptor
+NHOHCount,Number of NH or OH groups,atom_bond_ring_count
+NOCount,Number of nitrogen or oxygen atoms,atom_bond_ring_count
+NumAliphaticRings,Number of aliphatic rings,atom_bond_ring_count
+NumAromaticRings,Number of aromatic rings,atom_bond_ring_count
+NumHAcceptors,Number of hydrogen-bond acceptors,atom_bond_ring_count
+NumHDonors,Number of hydrogen-bond donors,atom_bond_ring_count
+NumHeteroatoms,Number of heteroatoms,atom_bond_ring_count
+NumRotatableBonds,Number of rotatable bonds,atom_bond_ring_count
+NumSaturatedRings,Number of saturated rings,atom_bond_ring_count
+RingCount,Number of rings,other_rdkit_descriptor
+MolLogP,Calculated octanol/water partition coefficient,lipophilicity_refractivity
+MolMR,Molar refractivity,lipophilicity_refractivity
+fr_Al_COO,RDKit fragment count: Al_COO,RDKit_fragment_count
+fr_Al_OH,RDKit fragment count: Al_OH,RDKit_fragment_count
+fr_Al_OH_noTert,RDKit fragment count: Al_OH_noTert,RDKit_fragment_count
+fr_ArN,RDKit fragment count: ArN,RDKit_fragment_count
+fr_Ar_COO,RDKit fragment count: Ar_COO,RDKit_fragment_count
+fr_Ar_N,RDKit fragment count: Ar_N,RDKit_fragment_count
+fr_Ar_NH,RDKit fragment count: Ar_NH,RDKit_fragment_count
+fr_Ar_OH,RDKit fragment count: Ar_OH,RDKit_fragment_count
+fr_COO,RDKit fragment count: COO,RDKit_fragment_count
+fr_COO2,RDKit fragment count: COO2,RDKit_fragment_count
+fr_C_O,RDKit fragment count: C_O,RDKit_fragment_count
+fr_C_O_noCOO,RDKit fragment count: C_O_noCOO,RDKit_fragment_count
+fr_Imine,RDKit fragment count: Imine,RDKit_fragment_count
+fr_NH0,RDKit fragment count: NH0,RDKit_fragment_count
+fr_NH1,RDKit fragment count: NH1,RDKit_fragment_count
+fr_NH2,RDKit fragment count: NH2,RDKit_fragment_count
+fr_Ndealkylation1,RDKit fragment count: Ndealkylation1,RDKit_fragment_count
+fr_Ndealkylation2,RDKit fragment count: Ndealkylation2,RDKit_fragment_count
+fr_Nhpyrrole,RDKit fragment count: Nhpyrrole,RDKit_fragment_count
+fr_alkyl_halide,RDKit fragment count: alkyl_halide,RDKit_fragment_count
+fr_allylic_oxid,RDKit fragment count: allylic_oxid,RDKit_fragment_count
+fr_amide,RDKit fragment count: amide,RDKit_fragment_count
+fr_amidine,RDKit fragment count: amidine,RDKit_fragment_count
+fr_aniline,RDKit fragment count: aniline,RDKit_fragment_count
+fr_aryl_methyl,RDKit fragment count: aryl_methyl,RDKit_fragment_count
+fr_benzene,RDKit fragment count: benzene,RDKit_fragment_count
+fr_bicyclic,RDKit fragment count: bicyclic,RDKit_fragment_count
+fr_ester,RDKit fragment count: ester,RDKit_fragment_count
+fr_ether,RDKit fragment count: ether,RDKit_fragment_count
+fr_guanido,RDKit fragment count: guanido,RDKit_fragment_count
+fr_halogen,RDKit fragment count: halogen,RDKit_fragment_count
+fr_imidazole,RDKit fragment count: imidazole,RDKit_fragment_count
+fr_imide,RDKit fragment count: imide,RDKit_fragment_count
+fr_ketone,RDKit fragment count: ketone,RDKit_fragment_count
+fr_ketone_Topliss,RDKit fragment count: ketone_Topliss,RDKit_fragment_count
+fr_lactam,RDKit fragment count: lactam,RDKit_fragment_count
+fr_lactone,RDKit fragment count: lactone,RDKit_fragment_count
+fr_methoxy,RDKit fragment count: methoxy,RDKit_fragment_count
+fr_morpholine,RDKit fragment count: morpholine,RDKit_fragment_count
+fr_nitro,RDKit fragment count: nitro,RDKit_fragment_count
+fr_oxime,RDKit fragment count: oxime,RDKit_fragment_count
+fr_para_hydroxylation,RDKit fragment count: para_hydroxylation,RDKit_fragment_count
+fr_phenol,RDKit fragment count: phenol,RDKit_fragment_count
+fr_phenol_noOrthoHbond,RDKit fragment count: phenol_noOrthoHbond,RDKit_fragment_count
+fr_piperdine,RDKit fragment count: piperdine,RDKit_fragment_count
+fr_piperzine,RDKit fragment count: piperzine,RDKit_fragment_count
+fr_priamide,RDKit fragment count: priamide,RDKit_fragment_count
+fr_pyridine,RDKit fragment count: pyridine,RDKit_fragment_count
+fr_quatN,RDKit fragment count: quatN,RDKit_fragment_count
+fr_sulfide,RDKit fragment count: sulfide,RDKit_fragment_count
+fr_sulfonamd,RDKit fragment count: sulfonamd,RDKit_fragment_count
+fr_tetrazole,RDKit fragment count: tetrazole,RDKit_fragment_count
+fr_thiazole,RDKit fragment count: thiazole,RDKit_fragment_count
+fr_thiophene,RDKit fragment count: thiophene,RDKit_fragment_count
+fr_unbrch_alkane,RDKit fragment count: unbrch_alkane,RDKit_fragment_count
+fr_urea,RDKit fragment count: urea,RDKit_fragment_count

@@ -1,0 +1,87 @@
+﻿scaffold_key,n,n_pos,n_neg,drugs,classes,pos_rate
+c1ccccc1,14,8,6,ACETAMINOPHEN | IOPROMIDE | LIDOCAINE | PROPOFOL | ALBUTEROL | EPHEDRINE | IOPAMIDOL | MELPHALAN | FENFLURAMINE | LACOSAMIDE | LISDEXAMFETAMINE | MESALAMINE | METHAMPHETAMINE | PSEUDOEPHEDRINE,negative_expanded | positive_high | positive_moderate,0.5714285714285714
+O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,3,3,0,DEXAMETHASONE | DEXAMETHASONE ACETATE | METHYLPREDNISOLONE,positive_high | positive_moderate,1.0
+C1=CC2CCC3Nc4ccc(C5CC6CCCN(CCc7c5[nH]c5ccccc75)C6)cc4C34CCN(C1)C24,2,2,0,VINBLASTINE | VINCRISTINE,positive_moderate,1.0
+C1CCCCC1,2,2,0,GABAPENTIN | TRANEXAMIC ACID,positive_moderate,1.0
+O=[PH]1NCCCO1,2,2,0,CYCLOPHOSPHAMIDE | IFOSFAMIDE,positive_moderate,1.0
+O=C1C=C2CCC3C4CCCC4CCC3C2CC1,2,1,1,HYDROCORTISONE | LEVONORGESTREL,negative_expanded | positive_moderate,0.5
+C=C1CCCCC1=CC=C1CCCC2CCCC12,2,0,2,CHOLECALCIFEROL | ERGOCALCIFEROL,negative_expanded,0.0
+C(=NC=NCCCCCCN=CN=CNc1ccccc1)Nc1ccccc1,1,1,0,CHLORHEXIDINE GLUCONATE,positive_moderate,1.0
+C1=CC2C3Cc4cccc5c4C2(CCN3)C(C1)O5,1,1,0,MORPHINE,positive_moderate,1.0
+C1CC2OCCC2O1,1,1,0,ISOSORBIDE DINITRATE,positive_moderate,1.0
+C1CC[NH+](C2CC3CCC4C5CC(N6CCOCC6)CCC5CCC4C3C2)C1,1,1,0,ROCURONIUM,positive_high,1.0
+N=C(C(=O)NC1C(=O)N2C=C(CSc3nc(=O)c(=O)[nH][nH]3)CSC12)c1cscn1,1,1,0,CEFTRIAXONE,positive_high,1.0
+N=C(C(=O)NC1C(=O)N2C=CCSC12)c1ccco1,1,1,0,CEFUROXIME,positive_high,1.0
+NO_SCAFFOLD__DFEYYRMXOJXZRJ-UHFFFAOYSA-N,1,1,0,SEVOFLURANE,positive_moderate,1.0
+NO_SCAFFOLD__LDCRTTXIJACKKU-ONEGZZNKSA-N,1,1,0,TECFIDERA,positive_moderate,1.0
+NO_SCAFFOLD__YCPOZVAOBBQLRI-WDSKDSINSA-N,1,1,0,TREOSULFAN,positive_moderate,1.0
+NO_SCAFFOLD__YOEWQQVKRJEPAE-UHFFFAOYSA-L,1,1,0,SUCCINYLCHOLINE,positive_moderate,1.0
+O=C(CC(NC(=O)c1ccccc1)c1ccccc1)OC1C=C2CC(=O)C3CCC4OCC4C3C(OC(=O)c3ccccc3)C(C2)C1,1,1,0,PACLITAXEL,positive_high,1.0
+O=C(CCCN1CC=C(n2c(=O)[nH]c3ccccc32)CC1)c1ccccc1,1,1,0,DROPERIDOL,positive_moderate,1.0
+O=C(Cc1ccccc1)NC1C(=O)N2CCSC12,1,1,0,AMOXICILLIN,positive_high,1.0
+O=C(Cn1cnnn1)NC1C(=O)N2C=C(CSc3nncs3)CSC12,1,1,0,CEFAZOLIN,positive_moderate,1.0
+O=C(NCCc1ccccc1)c1cnccn1,1,1,0,BORTEZOMIB,positive_moderate,1.0
+O=C(OC1CC[NH2+]C1)C(c1ccccc1)C1CCCC1,1,1,0,GLYCOPYRROLATE,positive_moderate,1.0
+O=C(c1ccc(Oc2ccccc2)cc1)c1c[nH]c2ncnc(NC3CCCOC3)c12,1,1,0,NEMTABRUTINIB,positive_moderate,1.0
+O=C1C=CC2C(=C1)CCC1C2CCC2C1CC1OCOC12,1,1,0,BUDESONIDE,positive_moderate,1.0
+O=C1CC(OC2CCCCO2)CC(OC2CCCCO2)CCCCNCCCCO1,1,1,0,AZITHROMYCIN,positive_moderate,1.0
+O=C1CCC2C3Cc4cccc5c4C2(CCN3)C1O5,1,1,0,HYDROMORPHONE,positive_moderate,1.0
+O=C1CCCCC1c1ccccc1,1,1,0,KETAMINE,positive_moderate,1.0
+O=C1OCC2C(OC3CCC4OCOCC4O3)c3cc4c(cc3C(c3ccccc3)C12)OCO4,1,1,0,ETOPOSIDE,positive_moderate,1.0
+O=C1c2c([nH]c3ccccc23)CCC1Cn1ccnc1,1,1,0,ONDANSETRON,positive_high,1.0
+O=C1c2ccccc2C(=O)c2cc3c(cc21)CCCC3OC1CCCCO1,1,1,0,DOXORUBICIN,positive_moderate,1.0
+O=c1[nH]cnc2c1NC(CNc1ccccc1)CN2,1,1,0,LEVOLEUCOVORIN,positive_moderate,1.0
+O=c1[nH]nc(CN2CCOC(OCc3ccccc3)C2c2ccccc2)[nH]1,1,1,0,APREPITANT,positive_moderate,1.0
+O=c1cc[nH]n1-c1ccccc1,1,1,0,METAMIZOLE,positive_moderate,1.0
+O=c1ncccn1C1CCCO1,1,1,0,CYTARABINE,positive_moderate,1.0
+c1c[nH]cn1,1,1,0,ZOLEDRONIC ACID,positive_moderate,1.0
+c1ccc(-c2n[nH]cc2-c2ccncn2)cc1,1,1,0,ENCORAFENIB,positive_moderate,1.0
+c1ccc(C2=NCc3cncn3-c3ccccc32)cc1,1,1,0,MIDAZOLAM,positive_moderate,1.0
+c1ccc(CCCNCCc2ccccc2)cc1,1,1,0,LABETALOL,positive_moderate,1.0
+c1ccc(Cc2ccccc2)cc1,1,1,0,DIPHENHYDRAMINE,positive_moderate,1.0
+c1ccc(Cc2ccccn2)cc1,1,1,0,DEXCHLORPHENIRAMINE,positive_moderate,1.0
+c1ccc(NC2CCN(CCc3cccs3)CC2)cc1,1,1,0,SUFENTANIL,positive_moderate,1.0
+c1ccc(NC2CCNCC2)cc1,1,1,0,REMIFENTANIL,positive_moderate,1.0
+c1ccc(Nc2ccccc2)cc1,1,1,0,DICLOFENAC,positive_high,1.0
+c1ccc2[nH]cnc2c1,1,1,0,BENDAMUSTINE,positive_moderate,1.0
+c1ccc2ccccc2c1,1,1,0,NAPROXEN,positive_moderate,1.0
+c1cscn1,1,1,0,FAMOTIDINE,positive_moderate,1.0
+c1ncc2ncn(C3CCCO3)c2n1,1,1,0,FLUDARABINE,positive_moderate,1.0
+C1=CCCCC1,1,0,1,ISOTRETINOIN,negative_expanded,0.0
+C1CCNC1,1,0,1,TROFINETIDE,negative_expanded,0.0
+O=C(CN1CCNCC1)Nc1ccc(N=C(c2ccccc2)c2c[nH]c3ccccc23)cc1,1,0,1,NINTEDANIB,negative_expanded,0.0
+O=C(NCc1ccccc1)N(Cc1ccccc1)C1CCNCC1,1,0,1,PIMAVANSERIN,negative_high,0.0
+O=C(NS(=O)(=O)c1ccc(NCC2CCOCC2)cc1)c1ccc(N2CCN(CC3=C(c4ccccc4)CCCC3)CC2)cc1Oc1cnc2[nH]ccc2c1,1,0,1,VENETOCLAX,negative_expanded,0.0
+O=C(Nc1ccccc1)C1(C(=O)Nc2ccc(Oc3ccnc4ccccc34)cc2)CC1,1,0,1,CABOZANTINIB,negative_high,0.0
+O=C(OC1CC2CCC(C1)N2)c1ccccc1,1,0,1,COCAINE,negative_expanded,0.0
+O=C1C=C2CCC3C(CCC4C3CCC43CCC(=O)O3)C2CC1,1,0,1,SPIRONOLACTONE,negative_expanded,0.0
+O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,1,0,1,POMALIDOMIDE,negative_high,0.0
+O=C1CCc2ccc(OCCCCN3CCN(c4ccccc4)CC3)cc2N1,1,0,1,ARIPIPRAZOLE,negative_expanded,0.0
+O=C1CN=C(c2ccccc2)c2ccccc2N1,1,0,1,LORAZEPAM,negative_expanded,0.0
+O=C1N(Cc2ccc(-c3ccccc3S(=O)(=O)Nc3ccon3)cc2)C=NC12CCCC2,1,0,1,SPARSENTAN,negative_expanded,0.0
+O=C1c2ccccc2C(=O)N1Cc1ccccc1,1,0,1,APREMILAST,negative_moderate,0.0
+O=S1(=O)NCNc2ccccc21,1,0,1,HYDROCHLOROTHIAZIDE,negative_expanded,0.0
+O=c1c(CCN2CCC(c3noc4ccccc34)CC2)cnc2n1CCCC2,1,0,1,RISPERIDONE,negative_expanded,0.0
+O=c1c2cc(-c3ccccc3)sc2n(Cc2ccccc2)c(=O)n1-c1cccnn1,1,0,1,RELUGOLIX,negative_high,0.0
+O=c1ccc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1,1,0,1,PALBOCICLIB,negative_high,0.0
+O=c1ncncn1C1CCCO1,1,0,1,AZACITIDINE,negative_expanded,0.0
+c1cc(-c2ccc3ccccc3c2)cc(C23CC4CC(CC(C4)C2)C3)c1,1,0,1,ADAPALENE,negative_expanded,0.0
+c1cc(-c2ccc3nc[nH]c3c2)nc(Nc2ccc(CN3CCNCC3)cn2)n1,1,0,1,ABEMACICLIB,negative_moderate,0.0
+c1ccc(-c2cncnc2OCCOc2ncccn2)cc1,1,0,1,MACITENTAN,negative_expanded,0.0
+c1ccc(-c2nc3ccccc3o2)cc1,1,0,1,TAFAMIDIS,negative_expanded,0.0
+c1ccc(-c2nn[nH]n2)c(-c2ccc(Cn3cnc4ccccc43)cc2)c1,1,0,1,CANDESARTAN,negative_expanded,0.0
+c1ccc(C(COc2ncccn2)c2ccccc2)cc1,1,0,1,AMBRISENTAN,negative_expanded,0.0
+c1ccc(C(Cn2cncn2)Cn2cncn2)cc1,1,0,1,FLUCONAZOLE,negative_expanded,0.0
+c1ccc(C(c2ccccc2)n2cncn2)cc1,1,0,1,LETROZOLE,negative_expanded,0.0
+c1ccc(C2=NCc3nncn3-c3ccccc32)cc1,1,0,1,ALPRAZOLAM,negative_moderate,0.0
+c1ccc(CC2CCCCC2)cc1,1,0,1,VENLAFAXINE,negative_expanded,0.0
+c1ccc(CN2CCc3sccc3C2)cc1,1,0,1,CLOPIDOGREL,negative_expanded,0.0
+c1ccc(Cn2nc(-c3ncccn3)c3cccnc32)cc1,1,0,1,RIOCIGUAT,negative_expanded,0.0
+c1ccc(Nc2nccc(-c3c[nH]c4ccccc34)n2)cc1,1,0,1,OSIMERTINIB,negative_expanded,0.0
+c1ccc(Oc2ccc(-c3nn(C4CCCNC4)c4ncncc34)cc2)cc1,1,0,1,IBRUTINIB,negative_moderate,0.0
+c1ccc2c(c1)CC1CCCC1C2,1,0,1,TREPROSTINIL,negative_moderate,0.0
+c1ccc2c(c1)Cc1cccnc1N1CCNCC21,1,0,1,MIRTAZAPINE,negative_expanded,0.0
+c1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1N2,1,0,1,CLOZAPINE,negative_high,0.0
+c1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1S2,1,0,1,QUETIAPINE,negative_moderate,0.0
+c1ccc2c(c1)N=C(N1CCNCC1)c1ccsc1N2,1,0,1,OLANZAPINE,negative_moderate,0.0
+c1nc(Sc2cnc[nH]2)c2[nH]cnc2n1,1,0,1,AZATHIOPRINE,negative_moderate,0.0
