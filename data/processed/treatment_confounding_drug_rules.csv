@@ -1,0 +1,56 @@
+﻿analysis_drug_name,confounding_category,review_level,comment
+DEXAMETHASONE,corticosteroid,core,systemic/topical corticosteroid; potential treatment-context confounding
+DEXAMETHASONE ACETATE,corticosteroid,core,corticosteroid ester
+DEXAMETHASONE SODIUM PHOSPHATE,corticosteroid,core,corticosteroid ester/salt
+METHYLPREDNISOLONE,corticosteroid,core,systemic corticosteroid
+METHYLPREDNISOLONE SODIUM SUCCINATE,corticosteroid,core,systemic corticosteroid ester/salt
+PREDNISOLONE,corticosteroid,core,systemic corticosteroid
+PREDNISONE,corticosteroid,core,systemic corticosteroid
+HYDROCORTISONE,corticosteroid,core,systemic corticosteroid
+HYDROCORTISONE SODIUM SUCCINATE,corticosteroid,core,systemic corticosteroid ester/salt
+BUDESONIDE,corticosteroid,core,corticosteroid; allergy/asthma context possible
+BETAMETHASONE,corticosteroid,core,corticosteroid
+TRIAMCINOLONE,corticosteroid,core,corticosteroid
+FLUDROCORTISONE,corticosteroid,core,corticosteroid
+CORTISONE,corticosteroid,core,corticosteroid
+CLOBETASOL,corticosteroid,core,corticosteroid
+MOMETASONE,corticosteroid,core,corticosteroid
+FLUTICASONE,corticosteroid,core,corticosteroid
+DIPHENHYDRAMINE,antihistamine_h1,core,H1 antihistamine; anaphylaxis/allergy treatment context
+CHLORPHENIRAMINE,antihistamine_h1,core,H1 antihistamine
+DEXCHLORPHENIRAMINE,antihistamine_h1,core,H1 antihistamine
+HYDROXYZINE,antihistamine_h1,core,H1 antihistamine
+PROMETHAZINE,antihistamine_h1,core,H1 antihistamine
+CETIRIZINE,antihistamine_h1,core,H1 antihistamine
+LEVOCETIRIZINE,antihistamine_h1,core,H1 antihistamine
+LORATADINE,antihistamine_h1,core,H1 antihistamine
+DESLORATADINE,antihistamine_h1,core,H1 antihistamine
+FEXOFENADINE,antihistamine_h1,core,H1 antihistamine
+RUPATADINE,antihistamine_h1,core,H1 antihistamine
+BILASTINE,antihistamine_h1,core,H1 antihistamine
+DOXYLAMINE,antihistamine_h1,core,H1 antihistamine
+MECLIZINE,antihistamine_h1,core,H1 antihistamine
+CYPROHEPTADINE,antihistamine_h1,core,H1 antihistamine
+CLEMASTINE,antihistamine_h1,core,H1 antihistamine
+FAMOTIDINE,antihistamine_h2,core,H2 blocker; allergy/anaphylaxis treatment context possible
+RANITIDINE,antihistamine_h2,core,H2 blocker
+CIMETIDINE,antihistamine_h2,core,H2 blocker
+NIZATIDINE,antihistamine_h2,core,H2 blocker
+EPINEPHRINE,adrenergic_rescue,core,first-line anaphylaxis rescue medication
+ADRENALINE,adrenergic_rescue,core,first-line anaphylaxis rescue medication
+NOREPINEPHRINE,adrenergic_rescue,core,vasopressor/shock treatment context
+NORADRENALINE,adrenergic_rescue,core,vasopressor/shock treatment context
+PHENYLEPHRINE,adrenergic_rescue,core,vasopressor/shock treatment context
+DOPAMINE,adrenergic_rescue,core,vasopressor/shock treatment context
+DOBUTAMINE,adrenergic_rescue,core,vasopressor/shock treatment context
+ALBUTEROL,bronchodilator_or_asthma_context,broad,bronchodilator/allergy-asthma context
+SALBUTAMOL,bronchodilator_or_asthma_context,broad,bronchodilator/allergy-asthma context
+LEVALBUTEROL,bronchodilator_or_asthma_context,broad,bronchodilator/allergy-asthma context
+TERBUTALINE,bronchodilator_or_asthma_context,broad,bronchodilator/allergy-asthma context
+IPRATROPIUM,bronchodilator_or_asthma_context,broad,bronchodilator/allergy-asthma context
+TIOTROPIUM,bronchodilator_or_asthma_context,broad,bronchodilator/asthma-COPD context
+AMINOPHYLLINE,bronchodilator_or_asthma_context,broad,bronchodilator/asthma context
+THEOPHYLLINE,bronchodilator_or_asthma_context,broad,bronchodilator/asthma context
+MONTELUKAST,bronchodilator_or_asthma_context,broad,asthma/allergy context
+ZAFIRLUKAST,bronchodilator_or_asthma_context,broad,asthma/allergy context
+CROMOLYN,bronchodilator_or_asthma_context,broad,mast-cell stabilizer/allergy context
